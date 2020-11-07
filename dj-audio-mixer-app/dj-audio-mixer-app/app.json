@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "dj-audio-mixer-app",
+    "slug": "snack-491e9d03-2839-4aa1-9d61-7546aa362d84",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This is an App that produces various sounds when clicked on each button."
+  }
+}
